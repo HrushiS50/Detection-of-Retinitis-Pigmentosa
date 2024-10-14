@@ -1,0 +1,13 @@
+tk
+opencv-python
+numpy
+pandas
+matplotlib
+scipy
+sklearn
+glob
+tensorflow
+Keras
+os
+Pillow
+db-sqlite3
